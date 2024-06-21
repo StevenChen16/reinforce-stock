@@ -2,6 +2,8 @@
 
 This project implements a Deep Q-Network (DQN) based AI for stock trading simulation using Chinese stock market data.
 
+Click here to read [Chinese Version](https://github.com/StevenChen16/reinforce-stock/blob/main/README-zh.md)
+
 ## Data
 
 The project uses Chinese stock market data, which needs to be downloaded from either of these sources:
